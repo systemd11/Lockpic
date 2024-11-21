@@ -2,7 +2,8 @@
 
 Lockpic is a simple and user-friendly application designed to **encrypt and hide messages in images using steganography**. The app allows you to encrypt a message with AES encryption and then hide the encrypted message in the least significant bits (LSB) of an image file (PNG). It also enables you to decrypt the hidden message from an encrypted image when provided with the correct password.
 
-![Main window](Images/MainWindow.png)
+<img src="Images/MainWindow.png" alt="Main window" width="50%" />
+
 ## Features
 
 - **Encrypt and Hide Messages in Images**: Encrypt your messages using AES encryption and hide them in the least significant bits of an image (LSB steganography).
